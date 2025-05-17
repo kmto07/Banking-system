@@ -23,11 +23,13 @@
 
 ### 1.1  登录
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps25.jpg) 
+![image](https://github.com/user-attachments/assets/5b4b280b-a255-4a97-9858-f9acd8c0bd80)
+
 
 ### 1.2  注册
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps26.jpg) 
+![image](https://github.com/user-attachments/assets/a4ce1a92-ea97-4058-9118-3869f37b1e02)
+
 
 
 
@@ -35,29 +37,35 @@
 
 2.1个人信息
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps27.jpg) 
+![image](https://github.com/user-attachments/assets/2f485c17-8fce-430b-a16c-df4817f9cac2)
+
 
 2.2修改密码
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps28.jpg) 
+![image](https://github.com/user-attachments/assets/e5fe8235-f9bf-4002-9df5-028ae78f018e)
+
 
 ## 3 通知信息管理
 
 3.1银行用户
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps29.jpg) 
+![image](https://github.com/user-attachments/assets/f6527571-5703-4f71-b10e-a023fa5b7547)
+
 
 3.2管理员
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps30.jpg) 
+![image](https://github.com/user-attachments/assets/2647ed9f-7e50-470c-a6b2-2d730f2a24ea)
+
 
 3.3普通用户
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps31.jpg) 
+![image](https://github.com/user-attachments/assets/e37f7614-2b25-49ef-b5c3-c67f3ff0c34e)
+
 
 ## 4 用户管理
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps32.jpg) 
+![image](https://github.com/user-attachments/assets/7046fa2d-dcaf-4dba-b03d-7c5e57e12961)
+
 
 ###  
 
@@ -65,63 +73,76 @@
 
 5.1查询
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps33.jpg) 
+![image](https://github.com/user-attachments/assets/12ed2272-8002-484c-8449-534fb631eb30)
+
 
 5.2新增
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps34.jpg) 
+![image](https://github.com/user-attachments/assets/4bc38205-3ccd-41f1-9c28-fdd55fa27716)
+
 
 ## 6 卡号账户管理
 
 6.1管理员
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps35.jpg) 
+![image](https://github.com/user-attachments/assets/c62516ed-9cb6-472f-a3f1-87183cf08d81)
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps36.jpg) 
+
+![image](https://github.com/user-attachments/assets/f7540df0-6040-433b-b65b-88f87bb05f62)
+
 
 6.2银行用户
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps37.jpg) 
+![image](https://github.com/user-attachments/assets/f6b13612-cb77-450f-9b4f-d7359e98eaa1)
+ 
 
 6.3存款
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps38.jpg) 
+![image](https://github.com/user-attachments/assets/da9bf815-eba0-4a63-86eb-8c12f8d590a7)
+
 
 6.4取款
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps39.jpg) 
+![image](https://github.com/user-attachments/assets/b03e5740-c342-4747-8ebd-f35f89596471)
+
 
 6.5转账
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps40.jpg) 
+![image](https://github.com/user-attachments/assets/40ff57e0-8652-4809-98a2-0a686b2f6dda)
+
 
 ## 7 存款信息管理
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps41.jpg) 
+![image](https://github.com/user-attachments/assets/50031ee0-0212-4ea0-b4dc-eed605c03549)
+
 
 ## 8 取款信息管理
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps42.jpg) 
+![image](https://github.com/user-attachments/assets/fa856e5e-c0f5-4e13-80a2-4f6df1e95d4e)
+
 
 ## 9 转账信息管理
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps43.jpg) 
+![image](https://github.com/user-attachments/assets/7f619742-125f-4d17-9234-c8dd35249625)
+
 
 ### 10 客服反馈管理
 
 10.1 用户
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps44.jpg) 
+![image](https://github.com/user-attachments/assets/3ee90dd2-eade-4acb-a121-862e6405abdc)
+
 
 10.2 管理员
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps45.jpg) 
+![image](https://github.com/user-attachments/assets/23d18f50-d71c-4d02-9cff-57a29dfdecc3)
 
-![img](file:///C:\Users\小凯\AppData\Local\Temp\ksohtml26564\wps46.jpg)
+![image](https://github.com/user-attachments/assets/0f83f26e-5a35-4184-89b7-75c6a22bb7ed)
 
 ### 11 ai客服
 
-![image](https://github.com/user-attachments/assets/98fe97c7-c15c-4717-a8b0-14ed9c9128ee)
+![image](https://github.com/user-attachments/assets/4d4e2246-0c5b-42c3-a94e-f84d9c2f1eee)
+
 
 
 
