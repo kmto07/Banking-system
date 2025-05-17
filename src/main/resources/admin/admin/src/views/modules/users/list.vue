@@ -85,10 +85,6 @@
 		<!-- 添加/修改页面  将父组件的search方法传递给子组件-->
 		<add-or-update v-if="addOrUpdateFlag" :parent="this" ref="addOrUpdate"></add-or-update>
 
-
-
-
-
 	</div>
 </template>
 

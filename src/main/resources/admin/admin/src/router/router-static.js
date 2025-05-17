@@ -108,6 +108,15 @@ const routes = [{
     redirect: '/index'
   }, /*默认跳转路由*/
   {
+    path: '/aichat',
+    name: 'AI客服',
+    component: () => import('@/views/modules/aichat/list'),
+    meta: { 
+      icon: 'el-icon-chat-line-round', 
+      title: 'aichat',
+    }
+  },
+  {
     path: '*',
     component: NotFound
   }
