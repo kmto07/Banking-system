@@ -55,5 +55,5 @@ mybatis-plus:
 
 deepseek:
   api:
-    key: sk-9a11c48e0dcd465a9f8f6786779d1778
+    key: ************************************
     url: https://api.deepseek.com/v1/chat/completions
