@@ -16,7 +16,8 @@
 
 # **项目展示**
 
-![image-20250517191538971](C:\Users\小凯\AppData\Roaming\Typora\typora-user-images\image-20250517191538971.png)
+![image](https://github.com/user-attachments/assets/ac867ace-4601-41ce-bebc-4fddaa836367)
+
 
 ### 1 登录
 
@@ -120,7 +121,8 @@
 
 ### 11 ai客服
 
-![image-20250517191243059](C:\Users\小凯\AppData\Roaming\Typora\typora-user-images\image-20250517191243059.png)
+![image](https://github.com/user-attachments/assets/98fe97c7-c15c-4717-a8b0-14ed9c9128ee)
+
 
 
 
